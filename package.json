@@ -2,7 +2,7 @@
   "name": "awesome-countries",
   "version": "1.0.0",
   "description": "Library to get complete lists of countries, country code, ISD code, flag and more",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/rahulpv/awesome-countries.git"
   },
   "author": "Rahul PV",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/rahulpv/awesome-countries/issues"
   },
